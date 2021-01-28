@@ -1,0 +1,25 @@
+{
+  "name": "pixelated-face",
+  "version": "1.0.0",
+  "description": "Face Detection and Censorship",
+  "main": "pixelated-face.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashwanthreddy8686/Pixelated-Face.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashwanthreddy8686/Pixelated-Face/issues"
+  },
+  "homepage": "https://github.com/yashwanthreddy8686/Pixelated-Face#readme",
+  "browserslist": [
+    "last 1 Chrome version"
+  ],
+  "dependencies": {
+    "parcel": "^2.0.0-alpha.2.1"
+  }
+}
